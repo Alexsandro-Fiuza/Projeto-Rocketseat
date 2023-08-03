@@ -46,6 +46,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ pela Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<<<<<<< HEAD
 
 
 <h1 align="center"> DevLinks </h1>
@@ -54,3 +55,5 @@ Feito com ♥ pela Rocketseat 👋 [Participe da nossa comunidade!](https://disc
 Programa exclusivo e gratuito, promovido pela Rocketseat para 
 ensino de tecnologias WEB.
 </p>
+=======
+>>>>>>> 8b474062ddfd729ca7157880bae26d7259b92c67
