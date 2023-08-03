@@ -26,6 +26,7 @@
 
 body {
   background: var(--bg-url) top center/cover;
+  height: 100vh;
 }
 
 body * {
@@ -149,4 +150,6 @@ footer :hover {
   border-radius: 9999px;
   backdrop-filter: blur(4px);
 }
+
+
 
