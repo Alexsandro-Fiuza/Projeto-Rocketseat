@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> c1823bfa0406307e633e0976ae920edc4a5748a7
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
@@ -47,6 +50,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ pela Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<<<<<<< HEAD
 
 =======
 <h1 align="center"> DevLinks </h1>
@@ -56,3 +60,5 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para
 ensino de tecnologias WEB.
 </p>
 >>>>>>> ad87675f94befd8871a0732ad21cc82edc378692
+=======
+>>>>>>> c1823bfa0406307e633e0976ae920edc4a5748a7
