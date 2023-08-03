@@ -47,10 +47,7 @@ Esse projeto está sob a licença MIT.
 
 Feito com ♥ pela Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
-<<<<<<< HEAD
 
-=======
->>>>>>> d0671823b80fd7e964e5d24b9e1619b4d211bf12
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
