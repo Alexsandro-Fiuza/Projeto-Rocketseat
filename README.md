@@ -47,7 +47,6 @@ Esse projeto está sob a licença MIT.
 
 Feito com ♥ pela Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
-=======
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
